@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+fuzzy-space-system-pjr7vv66q44vf6jjx/workspaces/FFC"
+		}
+	],
+	"remoteAuthority": "codespaces+fuzzy-space-system-pjr7vv66q44vf6jjx",
+	"settings": {
+		"liveServer.settings.port": 5502
+	}
+}
